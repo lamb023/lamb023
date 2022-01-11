@@ -7,5 +7,3 @@
 <p align="center">
   <img src="https:/lamb023/capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=lamb023&fontSize=70" />
 </p>
-
-   [![Top Langs](https://github.com/lamb023/github-readme-stats.vercel.app/api/top-langs/?username=lamb023&langs_count=10&layout=compact&theme=dark)](https://github.com/lamb023)
