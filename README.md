@@ -5,6 +5,6 @@
   
  <div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=Alissa Yoon&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=lamb023&fontSize=70" />
 </p>
 
