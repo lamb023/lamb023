@@ -10,5 +10,8 @@
 <h3 align="center">Follow Me</h3>
 <p align="center">
    <a href="https://www.instagram.com/j_yang.023_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_yang.023_/"/>
-     <img src="https://badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
+
+     
+     <a href="https://lamb1123.tistory.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Insta&logoColor=white&link=https://www.tistory.com/lanBlog/"/>
+     
 <p>
