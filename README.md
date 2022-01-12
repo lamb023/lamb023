@@ -9,5 +9,5 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamb023&langs_count=5&layout=compact&theme=dark)](https:/lamb023/github.com/lamb023)
     
 <p align="center">
-   <a href="https://www.instagram.com/hye_inisfree/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
+   <a href="https://www.instagram.com/j_yang.023_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_yang.023_/"/></a>&nbsp
 <p>
