@@ -11,6 +11,4 @@
 <p align="center">
    <a href="https://www.instagram.com/j_yang.023_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/j_yang.023_/"/>
 
-     
- [![Hits](https://github.com/lamb023/hit-counter/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2365A0D4&title=visit&edge_flat=false)](https://github.com/lamb023)
-<p>
+  <p>
